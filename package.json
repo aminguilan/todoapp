@@ -1,0 +1,25 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminguilan/todoapp.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "aminguilan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminguilan/todoapp/issues"
+  },
+  "homepage": "https://github.com/aminguilan/todoapp#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
